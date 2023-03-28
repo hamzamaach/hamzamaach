@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi there 👋<br><br>I'm a passionate web developer who loves innovation and digitalization. I'm always looking for new technologies and tools to improve my web development skills. I'm rigorous in my work, autonomous in my tasks. I'm also creative in my way of thinking and solving problems. Finally, I attach great importance to professional ethics in all my professional activities.<br><br>I’m currently learning Laravel and ReactJs<br>
 
 
@@ -18,10 +18,7 @@ Hi there 👋<br><br>I'm a passionate web developer who loves innovation and dig
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=hamzamaach&label=Profile%20Views&color=6&icon=5&pretty=true)]
+![](https://visitcount.itsvg.in/api?id=hamzamaach&label=Profile%20Views&color=6&icon=5&pretty=true)
 
 
