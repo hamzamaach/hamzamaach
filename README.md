@@ -1,5 +1,5 @@
 #  About Me:
-Hi there 👋<br><br>I'm a passionate developer who loves innovation and digitalization. I'm always looking for new technologies and tools to improve my web development skills. I'm rigorous in my work, autonomous in my tasks. I'm also creative in my way of thinking and solving problems.<br><br>I’m currently intern at Zone01 Oujda<br>
+Hi there 👋<br><br>I'm a passionate developer who loves innovation and digitalization. I'm always looking for new technologies and tools to improve my programing skills. I'm rigorous in my work, autonomous in my tasks. I'm also creative in my way of thinking and solving problems.<br><br>I’m currently intern at Zone01 Oujda<br>
 
 
 ## 🌐 Socials:
